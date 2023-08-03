@@ -1,2 +1,2 @@
-# hyperskill
-Hyperskill projects
+# Hyperskill
+Home to my Java Hyperskill projects
